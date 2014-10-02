@@ -6,3 +6,7 @@ Usage
 ------
 * Android Studio -> Import
 * Set ITERATION_COUNT in util/ContentCrypto to something large
+
+License
+------
+MIT
