@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TextLocker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">New</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="done">Done</string>
+    <string name="delete">Delete</string>
+    <string name="passphrase_request">Passphrase</string>
+    <string name="passphrase_continue">Continue</string>
+    <string name="title_activity_passphrase">Passphrase</string>
+    <string name="note_activity">Note</string>
+    <string name="textlist_activity">Notes</string>
+    <string name="action_export">Export Database</string>
+    <string name="action_import">Import Database</string>
+    <string name="bad_decrypt">Bad Decrypt</string>
+    <string name="edit">Edit</string>
+
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_blue_pressed">#ff132a41</color>
+    <color name="dark_blue_focused">#ff132a41</color>
+    <color name="dark_blue">#193441</color>
+
+    <color name="blue_pressed">#ff31566f</color>
+    <color name="blue_focused">#ff31566f</color>
+    <color name="blue">#3e606F</color>
+
+    <color name="light_blue_pressed">#ff7e9689</color>
+    <color name="light_blue_focused">#ff7e9689</color>
+    <color name="light_blue">#91AA9D</color>
+
+    <color name="tan_pressed">#ffb7c1a3</color>
+    <color name="tan_focused">#ffb7c1a3</color>
+    <color name="tan_divider">#ff828b70</color>
+    <color name="tan_light">#ffe9f3d5</color>
+    <color name="tan">#D1DBBD</color>
+
+    <color name="white_pressed">#ffecefe5</color>
+    <color name="white_focused">#ffecefe5</color>
+    <color name="white">#FCFFF5</color>
+</resources>
